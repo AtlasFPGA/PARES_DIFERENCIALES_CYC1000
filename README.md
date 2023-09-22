@@ -16,7 +16,6 @@ Colocamos la matriz de pineado en el emplazamiento del chip CYCLONE 10 LP y Proc
 ## Pares diferenciales identificados por el nombre de su pin y la medida en milimetros sobre la hoja DIN A4.
 
 
-
 | N2 | N1 | P2 | P1 | J2 | J1 | L15 | L16 |
 | ----- | ---- |----- | ---- | ----- | ---- |----- | ---- |
 | 10 | 10 | 24 | 10 | 7 | 8 | 7 | 7 |
@@ -29,11 +28,11 @@ Colocamos la matriz de pineado en el emplazamiento del chip CYCLONE 10 LP y Proc
 | total | total | total | total | total | total | total | total |
 | 109 | 98 | 93 | 45 | 59 | 58 | 54 | 65|
 | Escala | Escala | Escala | Escala | Escala | Escala | Escala | Escala |
-| 25,50 | 22,92_mm | 21,75_mm| 10,52_mm | 13,80_mm | 13,56_mm | 12,63_mm | 15,20_mm |
+| 25,50_mm | 22,92_mm | 21,75_mm| 10,52_mm | 13,80_mm | 13,56_mm | 12,63_mm | 15,20_mm |
 
 La escala esta en milímetros sobre la placa real CYC1000.
 
-Correspondencia de las señales nomenclatura 10CL025YU256C8G y las salidas de vídeo de la placa ATLAS:
+Correspondencia de las señales de vídeo DVI/HDMI/VGA64/SCART128 y el pin según la nomenclatura del integrado FPGA 10CL025YU256C8G:
 
 | TMDS | DVI | VGA64 | SCART128 | 10CL025YU256C8G |
 | ----- | ---- |----- | ---- | ----- |
