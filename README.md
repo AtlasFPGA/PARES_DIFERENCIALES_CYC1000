@@ -31,4 +31,17 @@ Colocamos la matriz de pineado en el emplazamiento del chip CYCLONE 10 LP y Proc
 | Escala | Escala | Escala | Escala | Escala | Escala | Escala | Escala |
 | 25,50 | 22,92_mm | 21,75_mm| 10,52_mm | 13,80_mm | 13,56_mm | 12,63_mm | 15,20_mm |
 
-La escala esta en milímetros.
+La escala esta en milímetros sobre la placa real CYC1000.
+
+Correspondencia de las señales nomenclatura 10CL025YU256C8G y las salidas de vídeo de la placa ATLAS:
+
+| TMDS | DVI | VGA64 | SCART128 | 10CL025YU256C8G |
+| ----- | ---- |----- | ---- | ----- |
+| TMDS[0] | CLK- | HS | CSYNC| L16 |
+| TMDS[1] | CLK+ | VS | G[0] | L15 |
+| TMDS[2] | 0- | BLUE[0] | B[0] | P1 |
+| TMDS[3] | 0+ | BLUE[1] | [1] | P2 |
+| TMDS[4] | 1- | GREEN[0] | G[1] | J1 |
+| TMDS[5] | 1+ | GREEN[1] | G[2] | J2 |
+| TMDS[6] | 2- | RED[0] | R[0] | N1 |
+| TMDS[7] | 2+ | RED[1] | R[1] | N2 |
