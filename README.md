@@ -1,13 +1,16 @@
 # PARES_DIFERENCIALES_CYC1000
 Fotografías y datos sobre los pares diferenciales escogidos para la creación de la placa ATLAS.
 
+Integrado fpga -> 10CL025YU256C8G
+Placa -> CYC1000
+
 Colocamos la matriz de pineado en el emplazamiento del chip CYCLONE 10 LP y Procedemos a medir la ruta desde la matriz BGA a los pines de la placa CYC1000.
 
 ### CYC1000 en formato din A4 manteniendo las proporciones.
-![CYC1000 en formato din A4](https://github.com/AtlasFPGA/PARES_DIFERENCIALES_CYC1000/blob/main/FOTOS/FOTO%20ALTA%20RESOLUCION%20CYC1000_PINEADO.png)
+![CYC1000 en formato din A4](https://github.com/AtlasFPGA/PARES_DIFERENCIALES_CYC1000/blob/main/FOTOS/FOTO_ALTA_RESOLUCION_CYC1000_PINEADO.png)
 
 ### CYC1000 identificando los pares diferenciales y medición de longitud sabiendo que 265mm en el papel corresponden a 62mm reales.
-![Identificación pares diferenciales CYC1000]([ubicacion_de_la_imagen](https://github.com/AtlasFPGA/PARES_DIFERENCIALES_CYC1000/blob/main/FOTOS/P1040085.JPG)https://github.com/AtlasFPGA/PARES_DIFERENCIALES_CYC1000/blob/main/FOTOS/P1040085.JPG)
+![Identificación pares diferenciales CYC1000](https://github.com/AtlasFPGA/PARES_DIFERENCIALES_CYC1000/blob/main/FOTOS/P1040085.JPG)
 
 
 ## Pares diferenciales identificados por el nombre de su pin y la medida en milimetros sobre la hoja DIN A4.
