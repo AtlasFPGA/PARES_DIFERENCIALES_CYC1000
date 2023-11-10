@@ -39,7 +39,7 @@ Correspondencia de las señales de vídeo DVI/HDMI/VGA64/SCART128 y el pin segú
 | TMDS[0] | CLK- | HS | CSYNC| L16 |
 | TMDS[1] | CLK+ | VS | G[0] | L15 |
 | TMDS[2] | 0- | BLUE[0] | B[0] | P1 |
-| TMDS[3] | 0+ | BLUE[1] | [1] | P2 |
+| TMDS[3] | 0+ | BLUE[1] | B[1] | P2 |
 | TMDS[4] | 1- | GREEN[0] | G[1] | J1 |
 | TMDS[5] | 1+ | GREEN[1] | G[2] | J2 |
 | TMDS[6] | 2- | RED[0] | R[0] | N1 |
