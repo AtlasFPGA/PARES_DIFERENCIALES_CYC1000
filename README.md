@@ -1,7 +1,7 @@
 # PARES_DIFERENCIALES_CYC1000
 Fotografías y datos sobre los pares diferenciales escogidos para la creación de la placa ATLAS.
 
-# https://t.me/INICIATIVAATLAS -> El grupo ATLAS esta en Telegram pueden encontrarnos allí, Group ATLAS in Telegram
+# https://t.me/INICIATIVAATLAS -> El grupo ATLAS esta en Telegram pueden encontrarnos allí, Group ATLAS in Telegram 
 
 Integrado fpga -> 10CL025YU256C8G
 Placa -> CYC1000
